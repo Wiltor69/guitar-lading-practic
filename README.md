@@ -1,1 +1,1 @@
-# guitar-lading-practic
+# This is my study project
